@@ -1,0 +1,1610 @@
+[
+  {
+    "tx_id": "TXN00000",
+    "user_id": "CUST0017",
+    "amount": 7656.21,
+    "timestamp": "16-09-2024-12-53",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00001",
+    "user_id": "CUST0024",
+    "amount": 5249.6,
+    "timestamp": "14-06-2023-18-27",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00002",
+    "user_id": "CUST0029",
+    "amount": 4455.07,
+    "timestamp": "04-11-2023-10-22",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00003",
+    "user_id": "CUST0009",
+    "amount": 5707.86,
+    "timestamp": "23-03-2025-11-30",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00004",
+    "user_id": "CUST0019",
+    "amount": 9603.08,
+    "timestamp": "16-05-2024-08-31",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00005",
+    "user_id": "cust0003",
+    "amount": 7639.23,
+    "timestamp": "19-03-2024-15-02",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00006",
+    "user_id": "CUST0008",
+    "amount": 6621.26,
+    "timestamp": "26-05-2023-02-21",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00007",
+    "user_id": "CUST0007",
+    "amount": 1779.44,
+    "timestamp": "26-12-2023-12-48",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00008",
+    "user_id": "CUST0005",
+    "amount": 76.62,
+    "timestamp": "30-07-2024-23-01",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00009",
+    "user_id": "CUST0022",
+    "amount": 5958.42,
+    "timestamp": "08-04-2024-22-37",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00010",
+    "user_id": "CUST9999",
+    "amount": 374.77,
+    "timestamp": "03-06-2024-10-03",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00011",
+    "user_id": "CUST0022",
+    "amount": 2863.05,
+    "timestamp": "23-03-2024-12-01",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00012",
+    "user_id": "CUST0002",
+    "amount": 6889.48,
+    "timestamp": "18-06-2023-22-20",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00013",
+    "user_id": "CUST0025",
+    "amount": 7922.92,
+    "timestamp": "19-11-2023-09-19",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00014",
+    "user_id": "CUST0013",
+    "amount": 1192.02,
+    "timestamp": "11-06-2024-10-58",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00015",
+    "user_id": "CUST0020",
+    "amount": 1532.44,
+    "timestamp": "16-07-2024-20-50",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00016",
+    "user_id": "CUST0026",
+    "amount": 1465.25,
+    "timestamp": "28-03-2025-17-04",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00017",
+    "user_id": "CUST0005",
+    "amount": 7936.65,
+    "timestamp": "02-03-2025-02-48",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00018",
+    "user_id": "CUST0014",
+    "amount": 1287.32,
+    "timestamp": "05-10-2023-17-47",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00019",
+    "user_id": "CUST0022",
+    "amount": 4054.96,
+    "timestamp": "09-11-2023-15-42",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00020",
+    "user_id": "CUST0016",
+    "amount": 5422.82,
+    "timestamp": "21-02-2025-02-45",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00021",
+    "user_id": "CUST0002",
+    "amount": 6000.46,
+    "timestamp": "10-02-2024-16-14",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00022",
+    "user_id": "CUST0023",
+    "amount": 3257.1,
+    "timestamp": "19-02-2024-23-55",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00023",
+    "user_id": "CUST0000",
+    "amount": 958.7,
+    "timestamp": "30-04-2025-04-01",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00024",
+    "user_id": "CUST0024",
+    "amount": 6739.2,
+    "timestamp": "29-02-2024-02-12",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00025",
+    "user_id": "CUST0018",
+    "amount": null,
+    "timestamp": "24-04-2024-02-29",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00026",
+    "user_id": "CUST0015",
+    "amount": 5213.69,
+    "timestamp": "28-03-2024-14-19",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00027",
+    "user_id": "CUST0029",
+    "amount": 2817.66,
+    "timestamp": "17-03-2024-09-09",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00028",
+    "user_id": "CUST0020",
+    "amount": 8151.74,
+    "timestamp": "14-12-2024-08-39",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00029",
+    "user_id": "CUST0015",
+    "amount": 3512.21,
+    "timestamp": "05-10-2023-12-19",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00030",
+    "user_id": "CUST0010",
+    "amount": 6717.83,
+    "timestamp": "07-11-2024-06-50",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00031",
+    "user_id": "CUST0010",
+    "amount": 4145.87,
+    "timestamp": "11-02-2024-02-03",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00032",
+    "user_id": "CUST0009",
+    "amount": 6642.71,
+    "timestamp": "16-11-2024-08-49",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00033",
+    "user_id": "CUST0026",
+    "amount": 7616.97,
+    "timestamp": "16-12-2023-06-41",
+    "payment_method": "card",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00034",
+    "user_id": "CUST0014",
+    "amount": 926.19,
+    "timestamp": "03-11-2024-04-03",
+    "payment_method": "bank_transfer",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00035",
+    "user_id": "CUST0010",
+    "amount": 1203.42,
+    "timestamp": "14-06-2023-02-47",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00036",
+    "user_id": "CUST0027",
+    "amount": 5170.23,
+    "timestamp": "08-07-2023-07-02",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00037",
+    "user_id": "CUST0021",
+    "amount": 8700.21,
+    "timestamp": "25-09-2023-11-34",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00038",
+    "user_id": "CUST0013",
+    "amount": 589.33,
+    "timestamp": "12-08-2023-04-38",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00039",
+    "user_id": "CUST0019",
+    "amount": 7576.61,
+    "timestamp": "20-12-2023-12-01",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00040",
+    "user_id": "CUST0024",
+    "amount": 563.54,
+    "timestamp": "23-01-2024-05-27",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00041",
+    "user_id": "CUST0017",
+    "amount": 1353.58,
+    "timestamp": "01-09-2023-02-40",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00042",
+    "user_id": "CUST0014",
+    "amount": 8814.42,
+    "timestamp": "21-05-2023-04-18",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00043",
+    "user_id": "cust0003",
+    "amount": 337.25,
+    "timestamp": "02-08-2024-03-51",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00044",
+    "user_id": "CUST0022",
+    "amount": 1625.86,
+    "timestamp": "04-01-2024-10-36",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00045",
+    "user_id": "CUST0017",
+    "amount": 4109.51,
+    "timestamp": "31-10-2023-06-54",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00046",
+    "user_id": "CUST0026",
+    "amount": 9133.65,
+    "timestamp": "12-02-2024-02-13",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00047",
+    "user_id": "cust0003",
+    "amount": 1218.79,
+    "timestamp": "17-07-2024-12-15",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00048",
+    "user_id": "CUST0015",
+    "amount": 9329.9,
+    "timestamp": "15-01-2024-16-09",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00049",
+    "user_id": "CUST0016",
+    "amount": 7068.85,
+    "timestamp": "05-01-2025-08-52",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00050",
+    "user_id": "CUST0026",
+    "amount": 9999999,
+    "timestamp": "22-02-2024-18-27",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00051",
+    "user_id": "CUST0007",
+    "amount": -2000,
+    "timestamp": "04-08-2024-06-49",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00052",
+    "user_id": "CUST0012",
+    "amount": 1946.57,
+    "timestamp": "2024-11-02T19:46:28+02:00",
+    "payment_method": "cash",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00053",
+    "user_id": "CUST0027",
+    "amount": 744.61,
+    "timestamp": "30-06-2023-07-35",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00054",
+    "user_id": "CUST0010",
+    "amount": 9345.77,
+    "timestamp": "17-09-2024-10-57",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00055",
+    "user_id": "CUST0026",
+    "amount": 75.52,
+    "timestamp": "29-09-2024-00-45",
+    "payment_method": "bank_transfer",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00056",
+    "user_id": "CUST0026",
+    "amount": 5890.03,
+    "timestamp": "11-01-2025-02-00",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00057",
+    "user_id": "CUST0027",
+    "amount": 1528.52,
+    "timestamp": "30-12-2023-05-40",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00058",
+    "user_id": "CUST0011",
+    "amount": 3357.78,
+    "timestamp": "19-11-2024-01-51",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00059",
+    "user_id": "CUST0014",
+    "amount": 9331.88,
+    "timestamp": "16-05-2024-02-34",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00060",
+    "user_id": "CUST0022",
+    "amount": 2426.12,
+    "timestamp": "21-06-2023-13-16",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00061",
+    "user_id": "CUST0007",
+    "amount": 8567.33,
+    "timestamp": "08-11-2024-20-20",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00062",
+    "user_id": "CUST0001",
+    "amount": 3215.85,
+    "timestamp": "15-10-2023-02-24",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00063",
+    "user_id": "CUST0022",
+    "amount": 9138.63,
+    "timestamp": "04-06-2023-11-29",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00064",
+    "user_id": "CUST0012",
+    "amount": 9884.72,
+    "timestamp": "18-11-2023-02-23",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00065",
+    "user_id": "CUST0015",
+    "amount": 9650.0,
+    "timestamp": "19-10-2024-14-30",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00066",
+    "user_id": "CUST0016",
+    "amount": 9655.27,
+    "timestamp": "08-12-2024-05-35",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00067",
+    "user_id": "CUST0027",
+    "amount": 1048.63,
+    "timestamp": "18-04-2025-22-13",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00068",
+    "user_id": "cust0003",
+    "amount": 5283.21,
+    "timestamp": "12-04-2025-21-35",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00069",
+    "user_id": "CUST0000",
+    "amount": 7238.32,
+    "timestamp": "17-03-2025-17-25",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00070",
+    "user_id": "CUST0027",
+    "amount": 6565.07,
+    "timestamp": "19-05-2024-06-46",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00071",
+    "user_id": "CUST0002",
+    "amount": 4721.43,
+    "timestamp": "06-04-2025-07-54",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00072",
+    "user_id": "CUST0010",
+    "amount": 6251.43,
+    "timestamp": "11-01-2024-11-11",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00073",
+    "user_id": "CUST0020",
+    "amount": 849.14,
+    "timestamp": "14-11-2023-06-04",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00074",
+    "user_id": "CUST0027",
+    "amount": 6759.86,
+    "timestamp": "19-08-2023-01-04",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00075",
+    "user_id": "cust0003",
+    "amount": 3200.78,
+    "timestamp": "16-11-2023-01-14",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00076",
+    "user_id": "CUST0027",
+    "amount": 5433.11,
+    "timestamp": "13-11-2024-00-12",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00077",
+    "user_id": "CUST0007",
+    "amount": 6330.05,
+    "timestamp": "30-07-2024-06-15",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00078",
+    "user_id": "CUST0007",
+    "amount": 7480.33,
+    "timestamp": "24-11-2024-21-17",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00079",
+    "user_id": "cust0003",
+    "amount": 7615.68,
+    "timestamp": "29-01-2025-11-55",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00080",
+    "user_id": "CUST0014",
+    "amount": 1705.33,
+    "timestamp": "23-12-2024-01-55",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00081",
+    "user_id": "CUST0028",
+    "amount": 338.03,
+    "timestamp": "05-05-2025-14-04",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00082",
+    "user_id": "CUST0025",
+    "amount": 608.39,
+    "timestamp": "04-07-2024-12-22",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00083",
+    "user_id": "CUST0011",
+    "amount": 4335.33,
+    "timestamp": "16-10-2023-19-00",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00084",
+    "user_id": "CUST0016",
+    "amount": 4149.91,
+    "timestamp": "05-06-2023-14-00",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00085",
+    "user_id": "CUST0005",
+    "amount": 1791.94,
+    "timestamp": "18-06-2023-22-00",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00086",
+    "user_id": "CUST0019",
+    "amount": 6847.19,
+    "timestamp": "27-04-2025-17-15",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00087",
+    "user_id": "CUST0029",
+    "amount": 5852.41,
+    "timestamp": "19-10-2023-10-20",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00088",
+    "user_id": "CUST0014",
+    "amount": 6397.15,
+    "timestamp": "13-02-2025-00-33",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00089",
+    "user_id": "CUST0008",
+    "amount": 6685.07,
+    "timestamp": "21-12-2024-15-44",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00090",
+    "user_id": "CUST0028",
+    "amount": 2911.94,
+    "timestamp": "06-09-2023-05-25",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00091",
+    "user_id": "CUST0002",
+    "amount": 4445.21,
+    "timestamp": "12-09-2023-15-32",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00092",
+    "user_id": "CUST0018",
+    "amount": 3026.58,
+    "timestamp": "03-05-2024-14-45",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00093",
+    "user_id": "CUST0022",
+    "amount": 2538.48,
+    "timestamp": "06-07-2024-03-04",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00094",
+    "user_id": "CUST0006",
+    "amount": 9993.77,
+    "timestamp": "08-09-2024-06-19",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00095",
+    "user_id": "cust0003",
+    "amount": 2410.2,
+    "timestamp": "23-07-2024-14-32",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00096",
+    "user_id": "CUST0018",
+    "amount": 2993.93,
+    "timestamp": "21-04-2025-01-35",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00097",
+    "user_id": "CUST0000",
+    "amount": 9780.55,
+    "timestamp": "25-11-2023-15-28",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00098",
+    "user_id": "CUST0008",
+    "amount": 130.57,
+    "timestamp": "12-09-2023-05-13",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00099",
+    "user_id": "CUST0029",
+    "amount": 6083.74,
+    "timestamp": "18-07-2023-05-38",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00100",
+    "user_id": "CUST0026",
+    "amount": 9046.35,
+    "timestamp": "07-12-2023-21-07",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00101",
+    "user_id": "CUST0024",
+    "amount": 7998.66,
+    "timestamp": "18-04-2025-18-02",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00102",
+    "user_id": "CUST0007",
+    "amount": 6384.35,
+    "timestamp": "06-02-2025-12-54",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00103",
+    "user_id": "CUST0021",
+    "amount": 7567.99,
+    "timestamp": "12-04-2025-13-03",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00104",
+    "user_id": "CUST0020",
+    "amount": 1016.78,
+    "timestamp": "11-04-2025-22-24",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00105",
+    "user_id": "CUST0009",
+    "amount": 7896.67,
+    "timestamp": "17-06-2023-02-23",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00106",
+    "user_id": "CUST0018",
+    "amount": 3680.37,
+    "timestamp": "28-09-2024-07-25",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00107",
+    "user_id": "CUST0002",
+    "amount": 9100.8,
+    "timestamp": "26-02-2025-12-33",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00108",
+    "user_id": "CUST0023",
+    "amount": 4184.26,
+    "timestamp": "08-11-2024-02-28",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00109",
+    "user_id": "CUST0004",
+    "amount": 7875.8,
+    "timestamp": "03-01-2024-00-47",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00110",
+    "user_id": "CUST0016",
+    "amount": 5042.86,
+    "timestamp": "01-04-2025-17-46",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00111",
+    "user_id": "CUST0026",
+    "amount": 1687.22,
+    "timestamp": "23-09-2023-12-27",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00112",
+    "user_id": "cust0003",
+    "amount": 8074.56,
+    "timestamp": "22-11-2023-14-30",
+    "payment_method": "bank_transfer",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00113",
+    "user_id": "CUST0025",
+    "amount": 1195.94,
+    "timestamp": "31-08-2024-12-55",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00114",
+    "user_id": "CUST0004",
+    "amount": 7553.81,
+    "timestamp": "20-07-2024-08-12",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00115",
+    "user_id": "CUST0027",
+    "amount": 6779.42,
+    "timestamp": "04-01-2024-15-08",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00116",
+    "user_id": "cust0003",
+    "amount": 8465.16,
+    "timestamp": "12-09-2024-23-04",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00117",
+    "user_id": "CUST0002",
+    "amount": 7917.29,
+    "timestamp": "22-11-2024-07-16",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00118",
+    "user_id": "CUST0008",
+    "amount": 5388.89,
+    "timestamp": "13-08-2023-01-17",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00119",
+    "user_id": "CUST0011",
+    "amount": 6744.64,
+    "timestamp": "30-08-2023-00-34",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00120",
+    "user_id": "CUST0018",
+    "amount": 3841.2,
+    "timestamp": "15-03-2025-16-01",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00121",
+    "user_id": "cust0003",
+    "amount": 6764.62,
+    "timestamp": "28-08-2023-13-17",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00122",
+    "user_id": "CUST0000",
+    "amount": 6214.49,
+    "timestamp": "29-12-2024-12-14",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00123",
+    "user_id": "CUST0029",
+    "amount": 6120.32,
+    "timestamp": "24-02-2024-07-44",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00124",
+    "user_id": "CUST0020",
+    "amount": 8247.36,
+    "timestamp": "07-03-2024-05-13",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00125",
+    "user_id": "CUST0020",
+    "amount": 4112.54,
+    "timestamp": "25-08-2023-22-59",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00126",
+    "user_id": "CUST0001",
+    "amount": 9465.3,
+    "timestamp": "16-08-2024-19-01",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00127",
+    "user_id": "CUST0015",
+    "amount": 1205.4,
+    "timestamp": "15-02-2024-11-20",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00128",
+    "user_id": "CUST0028",
+    "amount": 5398.59,
+    "timestamp": "07-12-2023-00-44",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00129",
+    "user_id": "CUST0014",
+    "amount": 3741.56,
+    "timestamp": "09-02-2025-20-15",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00130",
+    "user_id": "CUST0018",
+    "amount": 7435.58,
+    "timestamp": "15-10-2023-18-25",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00131",
+    "user_id": "CUST0028",
+    "amount": 4178.1,
+    "timestamp": "07-07-2023-08-27",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00132",
+    "user_id": "CUST0026",
+    "amount": 4919.0,
+    "timestamp": "14-09-2023-12-29",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00133",
+    "user_id": "cust0003",
+    "amount": 9517.64,
+    "timestamp": "17-07-2023-02-29",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00134",
+    "user_id": "CUST0022",
+    "amount": 3736.77,
+    "timestamp": "28-04-2024-21-38",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00135",
+    "user_id": "CUST0014",
+    "amount": 9508.02,
+    "timestamp": "13-06-2023-04-58",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00136",
+    "user_id": "cust0003",
+    "amount": 9810.23,
+    "timestamp": "14-03-2024-20-58",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00137",
+    "user_id": "CUST0017",
+    "amount": 9021.88,
+    "timestamp": "14-02-2024-10-33",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00138",
+    "user_id": "CUST0001",
+    "amount": 4011.49,
+    "timestamp": "18-10-2023-21-12",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00139",
+    "user_id": "cust0003",
+    "amount": 1265.49,
+    "timestamp": "10-11-2024-09-30",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00140",
+    "user_id": "CUST0002",
+    "amount": 6644.55,
+    "timestamp": "28-09-2023-22-18",
+    "payment_method": "card",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00141",
+    "user_id": "CUST0001",
+    "amount": 7878.61,
+    "timestamp": "25-02-2025-15-40",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00142",
+    "user_id": "CUST0004",
+    "amount": 7880.43,
+    "timestamp": "14-01-2025-12-34",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00143",
+    "user_id": "CUST0002",
+    "amount": 8306.69,
+    "timestamp": "05-05-2024-04-23",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00144",
+    "user_id": "CUST0018",
+    "amount": 2198.72,
+    "timestamp": "21-04-2025-09-26",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00145",
+    "user_id": "CUST0010",
+    "amount": 7754.97,
+    "timestamp": "09-07-2024-13-36",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00146",
+    "user_id": "CUST0008",
+    "amount": 8591.14,
+    "timestamp": "19-06-2024-13-49",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00147",
+    "user_id": "CUST0004",
+    "amount": 5425.14,
+    "timestamp": "30-12-2023-23-12",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00148",
+    "user_id": "cust0003",
+    "amount": 6627.52,
+    "timestamp": "16-06-2024-11-36",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00149",
+    "user_id": "CUST0004",
+    "amount": 197.86,
+    "timestamp": "14-11-2024-08-02",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00150",
+    "user_id": "CUST0018",
+    "amount": 3271.53,
+    "timestamp": "16-11-2024-08-54",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00151",
+    "user_id": "CUST0008",
+    "amount": 571.37,
+    "timestamp": "02-05-2024-23-20",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00152",
+    "user_id": "CUST0016",
+    "amount": 1180.81,
+    "timestamp": "04-10-2024-00-15",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00153",
+    "user_id": "CUST0015",
+    "amount": 4510.34,
+    "timestamp": "17-09-2024-06-50",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00154",
+    "user_id": "CUST0016",
+    "amount": 5956.98,
+    "timestamp": "03-04-2025-18-50",
+    "payment_method": "mobile_payment",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00155",
+    "user_id": "CUST0016",
+    "amount": 2254.42,
+    "timestamp": "25-03-2025-08-55",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00156",
+    "user_id": "CUST0023",
+    "amount": 7843.11,
+    "timestamp": "15-04-2025-18-24",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00157",
+    "user_id": "CUST0014",
+    "amount": 6451.24,
+    "timestamp": "12-01-2024-14-21",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00158",
+    "user_id": "CUST0001",
+    "amount": 9985.94,
+    "timestamp": "24-02-2024-05-20",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00159",
+    "user_id": "CUST0013",
+    "amount": 6876.67,
+    "timestamp": "27-10-2023-06-22",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00160",
+    "user_id": "CUST0022",
+    "amount": 9101.52,
+    "timestamp": "06-04-2024-16-05",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00161",
+    "user_id": "CUST0028",
+    "amount": 853.87,
+    "timestamp": "17-12-2024-18-06",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00162",
+    "user_id": "CUST0002",
+    "amount": 1305.61,
+    "timestamp": "06-10-2023-05-19",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00163",
+    "user_id": "CUST0012",
+    "amount": 9946.55,
+    "timestamp": "05-02-2025-13-39",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00164",
+    "user_id": "CUST0014",
+    "amount": 5080.23,
+    "timestamp": "31-03-2025-10-34",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00165",
+    "user_id": "cust0003",
+    "amount": 7941.31,
+    "timestamp": "23-09-2023-12-14",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00166",
+    "user_id": "CUST0027",
+    "amount": 6564.39,
+    "timestamp": "09-04-2024-20-22",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00167",
+    "user_id": "CUST0013",
+    "amount": 4542.97,
+    "timestamp": "23-07-2023-15-56",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00168",
+    "user_id": "CUST0013",
+    "amount": 3422.37,
+    "timestamp": "10-08-2024-16-18",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00169",
+    "user_id": "CUST0012",
+    "amount": 4189.1,
+    "timestamp": "24-02-2024-20-22",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00170",
+    "user_id": "CUST0010",
+    "amount": 4296.3,
+    "timestamp": "02-11-2023-18-01",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00171",
+    "user_id": "CUST0011",
+    "amount": 9538.25,
+    "timestamp": "25-08-2023-10-22",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00172",
+    "user_id": "CUST0002",
+    "amount": 957.69,
+    "timestamp": "05-12-2023-11-43",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00173",
+    "user_id": "CUST0002",
+    "amount": 4347.17,
+    "timestamp": "27-06-2023-12-46",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00174",
+    "user_id": "CUST0025",
+    "amount": 1344.65,
+    "timestamp": "23-12-2024-01-01",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00175",
+    "user_id": "CUST0018",
+    "amount": 9568.42,
+    "timestamp": "02-01-2025-20-41",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00176",
+    "user_id": "CUST0021",
+    "amount": 1266.2,
+    "timestamp": "08-11-2024-18-05",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00177",
+    "user_id": "CUST0027",
+    "amount": 6670.14,
+    "timestamp": "18-02-2025-04-34",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00178",
+    "user_id": "CUST0027",
+    "amount": 9162.64,
+    "timestamp": "31-10-2024-22-09",
+    "payment_method": "card",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00179",
+    "user_id": "cust0003",
+    "amount": 2911.91,
+    "timestamp": "02-05-2024-11-08",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00180",
+    "user_id": "CUST0011",
+    "amount": 1080.83,
+    "timestamp": "10-11-2023-01-39",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00181",
+    "user_id": "CUST0004",
+    "amount": 6584.53,
+    "timestamp": "09-02-2025-08-19",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00182",
+    "user_id": "CUST0027",
+    "amount": 1126.77,
+    "timestamp": "10-05-2025-09-38",
+    "payment_method": "bank_transfer",
+    "is_fraud": 1
+  },
+  {
+    "tx_id": "TXN00183",
+    "user_id": "cust0003",
+    "amount": 7637.93,
+    "timestamp": "08-09-2024-16-27",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00184",
+    "user_id": "CUST0025",
+    "amount": 4319.67,
+    "timestamp": "09-11-2024-17-56",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00185",
+    "user_id": "CUST0019",
+    "amount": 9294.39,
+    "timestamp": "12-04-2024-01-55",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00186",
+    "user_id": "CUST0000",
+    "amount": 1845.14,
+    "timestamp": "16-04-2024-01-51",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00187",
+    "user_id": "CUST0029",
+    "amount": 3431.26,
+    "timestamp": "31-01-2025-14-06",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00188",
+    "user_id": "CUST0005",
+    "amount": 8705.13,
+    "timestamp": "07-08-2023-20-31",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00189",
+    "user_id": "CUST0002",
+    "amount": 1461.65,
+    "timestamp": "11-08-2023-18-10",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00190",
+    "user_id": "CUST0002",
+    "amount": 7473.81,
+    "timestamp": "27-02-2025-16-16",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00191",
+    "user_id": "CUST0012",
+    "amount": 4227.33,
+    "timestamp": "10-03-2025-09-03",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00192",
+    "user_id": "CUST0005",
+    "amount": 3732.03,
+    "timestamp": "22-01-2024-02-57",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00193",
+    "user_id": "CUST0024",
+    "amount": 9417.0,
+    "timestamp": "04-01-2024-03-26",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00194",
+    "user_id": "CUST0028",
+    "amount": 573.46,
+    "timestamp": "19-12-2024-16-29",
+    "payment_method": "cash",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00195",
+    "user_id": "CUST0024",
+    "amount": 6197.49,
+    "timestamp": "01-12-2023-17-54",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00196",
+    "user_id": "CUST0008",
+    "amount": 4458.97,
+    "timestamp": "28-04-2025-18-38",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00197",
+    "user_id": "CUST0015",
+    "amount": 6090.41,
+    "timestamp": "13-05-2024-12-24",
+    "payment_method": "mobile_payment",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00198",
+    "user_id": "CUST0008",
+    "amount": 2194.91,
+    "timestamp": "10-11-2024-08-40",
+    "payment_method": "card",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00199",
+    "user_id": "CUST0011",
+    "amount": 4327.64,
+    "timestamp": "23-04-2024-17-31",
+    "payment_method": "bank_transfer",
+    "is_fraud": 0
+  },
+  {
+    "tx_id": "TXN00005",
+    "user_id": "cust0003",
+    "amount": 7639.23,
+    "timestamp": "19-03-2024-15-02",
+    "payment_method": "cash",
+    "is_fraud": 0
+  }
+]

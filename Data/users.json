@@ -1,0 +1,405 @@
+[
+  {
+    "user_id": "CUST0000",
+    "first_name": "kabelo",
+    "last_name": "dlamini",
+    "email": "kabelo.dlamini859@example.co.za",
+    "location": {
+      "city": "Port Elizabeth",
+      "country": "South Africa"
+    },
+    "account_created": "20-02-2023-13-11",
+    "national_id": "33218196001338908386",
+    "internal_notes": "note_0"
+  },
+  {
+    "user_id": "CUST0001",
+    "first_name": "sipho",
+    "last_name": "ngcobo",
+    "email": "sipho.ngcobo814@example.co.za",
+    "location": {
+      "city": "Polokwane",
+      "country": "South Africa"
+    },
+    "account_created": "22-12-2024-00-25",
+    "national_id": "54235116155940781618",
+    "internal_notes": "note_1"
+  },
+  {
+    "user_id": "CUST0002",
+    "first_name": "bongani",
+    "last_name": "motsepe",
+    "email": "bongani.motsepe296@example.co.za",
+    "location": {
+      "city": "Cape Town",
+      "country": "South Africa"
+    },
+    "account_created": "29-06-2020-01-40",
+    "national_id": "03413164752553419283",
+    "internal_notes": "note_2"
+  },
+  {
+    "user_id": "cust0003",
+    "first_name": "themba",
+    "last_name": "mahlangu",
+    "email": "themba.mahlangu801@example.co.za",
+    "location": {
+      "city": "Bloemfontein",
+      "country": "South Africa"
+    },
+    "account_created": "15-11-2021-13-36",
+    "national_id": "03056413953767242388",
+    "internal_notes": "note_3"
+  },
+  {
+    "user_id": "CUST0004",
+    "first_name": "zanele",
+    "last_name": "sithole",
+    "email": "zanele.sithole324@example.co.za",
+    "location": {
+      "city": "Durban",
+      "country": "South Africa"
+    },
+    "account_created": "12-05-2021-23-47",
+    "national_id": "87101226916697848018",
+    "internal_notes": "note_4"
+  },
+  {
+    "user_id": "CUST0005",
+    "first_name": "mpho",
+    "last_name": "ntuli",
+    "email": "mpho.ntuli261@example.co.za",
+    "location": {
+      "city": "Nelspruit",
+      "country": "South Africa"
+    },
+    "account_created": "01-09-2023-12-33",
+    "national_id": "04828148932528809570",
+    "internal_notes": "note_5"
+  },
+  {
+    "user_id": "CUST0006",
+    "first_name": "mpho",
+    "last_name": "mahlangu",
+    "email": "mpho.mahlangu159@example.co.za",
+    "location": {
+      "city": "Pretoria",
+      "country": "South Africa"
+    },
+    "account_created": "10-11-2024-21-36",
+    "national_id": "91171822782489638346",
+    "internal_notes": "note_6"
+  },
+  {
+    "user_id": "CUST0007",
+    "first_name": "lebohang",
+    "last_name": "gumede",
+    "email": "lebohang.gumede223@example.co.za",
+    "location": {
+      "city": "Pretoria",
+      "country": "South Africa"
+    },
+    "account_created": null,
+    "national_id": "31509839301031051834",
+    "internal_notes": null
+  },
+  {
+    "user_id": "CUST0008",
+    "first_name": "nokuthula",
+    "last_name": "motsepe",
+    "email": "nokuthula.motsepe584@example.co.za",
+    "location": {
+      "city": "Pretoria",
+      "country": "South Africa"
+    },
+    "account_created": "25-10-2024-09-26",
+    "national_id": "76311656670106513338",
+    "internal_notes": "note_8"
+  },
+  {
+    "user_id": "CUST0009",
+    "first_name": "naledi",
+    "last_name": "nkosi",
+    "email": "naledi.nkosi553@example.co.za",
+    "location": {
+      "city": "Kimberley",
+      "country": "South Africa"
+    },
+    "account_created": "24-07-2022-03-00",
+    "national_id": "10801326773602606474",
+    "internal_notes": "note_9"
+  },
+  {
+    "user_id": "CUST0010",
+    "first_name": "themba",
+    "last_name": "cele",
+    "email": "themba.cele258@example.co.za",
+    "location": {
+      "city": "Pretoria",
+      "country": "South Africa"
+    },
+    "account_created": "29-12-2022-16-27",
+    "national_id": "43098050097882081219",
+    "internal_notes": "note_10"
+  },
+  {
+    "user_id": "CUST0011",
+    "first_name": "nokuthula",
+    "last_name": "mahlangu",
+    "email": "nokuthula.mahlangu692@example.co.za",
+    "location": {
+      "city": "Pietermaritzburg",
+      "country": "South Africa"
+    },
+    "account_created": "21-03-2024-07-21",
+    "national_id": "09169985435346247510",
+    "internal_notes": "note_11"
+  },
+  {
+    "user_id": "CUST0012",
+    "first_name": "jabu",
+    "last_name": "maponya",
+    "email": "jabu.maponya318@example.co.za",
+    "location": {
+      "city": "Kimberley",
+      "country": "South Africa"
+    },
+    "account_created": "07-07-2023-14-35",
+    "national_id": "42513542784980841241",
+    "internal_notes": null
+  },
+  {
+    "user_id": "CUST0013",
+    "first_name": "mpho",
+    "last_name": "ndlovu",
+    "email": "mpho.ndlovu834@example.co.za",
+    "location": {
+      "city": "Bloemfontein",
+      "country": "South Africa"
+    },
+    "account_created": "09-10-2020-13-34",
+    "national_id": "34874016400524278680",
+    "internal_notes": "note_13"
+  },
+  {
+    "user_id": "CUST0014",
+    "first_name": "tshepo",
+    "last_name": "maponya",
+    "email": "tshepo.maponya136@example.co.za",
+    "location": {
+      "city": "Bloemfontein",
+      "country": "South Africa"
+    },
+    "account_created": "20-08-2024-16-33",
+    "national_id": "98262045053315869232",
+    "internal_notes": "note_14"
+  },
+  {
+    "user_id": "CUST0015",
+    "first_name": "sipho",
+    "last_name": "ngcobo",
+    "email": "sipho.ngcobo854@example.co.za",
+    "location": {
+      "city": "Bloemfontein",
+      "country": "South Africa"
+    },
+    "account_created": "31-01-2025-11-18",
+    "national_id": "63421607337543303654",
+    "internal_notes": "note_15"
+  },
+  {
+    "user_id": "CUST0016",
+    "first_name": "lebohang",
+    "last_name": "zwane",
+    "email": "lebohang.zwane795@example.co.za",
+    "location": {
+      "city": "Kimberley",
+      "country": "South Africa"
+    },
+    "account_created": "22-11-2023-06-18",
+    "national_id": "50142940196556981693",
+    "internal_notes": null
+  },
+  {
+    "user_id": "CUST0017",
+    "first_name": "themba",
+    "last_name": "ndlovu",
+    "email": "themba.ndlovu472@example.co.za",
+    "location": {
+      "city": "Polokwane",
+      "country": "South Africa"
+    },
+    "account_created": "04-02-2024-16-44",
+    "national_id": "15951484656482366299",
+    "internal_notes": null
+  },
+  {
+    "user_id": "CUST0018",
+    "first_name": "mpho",
+    "last_name": "ndlovu",
+    "email": "mpho.ndlovu540@example.co.za",
+    "location": {
+      "city": "Pietermaritzburg",
+      "country": "South Africa"
+    },
+    "account_created": "2021/12/02 04:55",
+    "national_id": "95777387214895134332",
+    "internal_notes": "note_18"
+  },
+  {
+    "user_id": "CUST0019",
+    "first_name": "jabu",
+    "last_name": "gumede",
+    "email": "jabu.gumede524@example.co.za",
+    "location": {
+      "city": "Pietermaritzburg",
+      "country": "South Africa"
+    },
+    "account_created": "08-07-2020-02-54",
+    "national_id": "36763201632870831727",
+    "internal_notes": "note_19"
+  },
+  {
+    "user_id": "CUST0020",
+    "first_name": "kgomotso",
+    "last_name": "msimang",
+    "email": "kgomotso.msimang536@example.co.za",
+    "location": {
+      "city": "Kimberley",
+      "country": "South Africa"
+    },
+    "account_created": "2023/07/22 06:46",
+    "national_id": "72774348734714345581",
+    "internal_notes": "note_20"
+  },
+  {
+    "user_id": "CUST0021",
+    "first_name": "nomsa",
+    "last_name": "nkosi",
+    "email": "nomsa.nkosi524@example.co.za",
+    "location": {
+      "city": "Polokwane",
+      "country": "South Africa"
+    },
+    "account_created": "24-09-2024-13-49",
+    "national_id": "58760366909670546688",
+    "internal_notes": "note_21"
+  },
+  {
+    "user_id": "CUST0022",
+    "first_name": "lindiwe",
+    "last_name": "ntuli",
+    "email": "lindiwe.ntuli597@example.co.za",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa"
+    },
+    "account_created": "2024/10/30 01:22",
+    "national_id": "65627298069901627204",
+    "internal_notes": "note_22"
+  },
+  {
+    "user_id": "CUST0023",
+    "first_name": "zanele",
+    "last_name": "pule",
+    "email": "zanele.pule870@example.co.za",
+    "location": {
+      "city": "Polokwane",
+      "country": "South Africa"
+    },
+    "account_created": "2023/03/18 23:49",
+    "national_id": "41708053100330923271",
+    "internal_notes": "note_23"
+  },
+  {
+    "user_id": "CUST0024",
+    "first_name": "bongani",
+    "last_name": "ngcobo",
+    "email": "bongani.ngcobo720@example.co.za",
+    "location": {
+      "city": "Pietermaritzburg",
+      "country": "South Africa"
+    },
+    "account_created": "15-09-2020-01-16",
+    "national_id": "12419049663193149190",
+    "internal_notes": "note_24"
+  },
+  {
+    "user_id": "CUST0025",
+    "first_name": "lebohang",
+    "last_name": "mabaso",
+    "email": "lebohang.mabaso112@example.co.za",
+    "location": {
+      "city": "Polokwane",
+      "country": "South Africa"
+    },
+    "account_created": "02-08-2021-06-14",
+    "national_id": "71657262849877694531",
+    "internal_notes": "note_25"
+  },
+  {
+    "user_id": "CUST0026",
+    "first_name": "nokuthula",
+    "last_name": "zwane",
+    "email": "nokuthula.zwane444@example.co.za",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa"
+    },
+    "account_created": "14-09-2024-13-17",
+    "national_id": "75273545494808313678",
+    "internal_notes": "note_26"
+  },
+  {
+    "user_id": "CUST0027",
+    "first_name": "palesa",
+    "last_name": "gumede",
+    "email": "palesa.gumede911@example.co.za",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa"
+    },
+    "account_created": "14-03-2021-11-15",
+    "national_id": "14363495788568557444",
+    "internal_notes": "note_27"
+  },
+  {
+    "user_id": "CUST0028",
+    "first_name": "themba",
+    "last_name": "ngcobo",
+    "email": "themba.ngcobo296@example.co.za",
+    "location": {
+      "city": "Pretoria",
+      "country": "South Africa"
+    },
+    "account_created": "04-03-2023-04-19",
+    "national_id": "74989413435240824008",
+    "internal_notes": "note_28"
+  },
+  {
+    "user_id": "CUST0029",
+    "first_name": "palesa",
+    "last_name": "mthembu",
+    "email": "palesa.mthembu993@example.co.za",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa"
+    },
+    "account_created": "2020/08/17 03:45",
+    "national_id": "94777520471167190229",
+    "internal_notes": "note_29"
+  },
+  {
+    "user_id": "cust0003",
+    "first_name": "themba",
+    "last_name": "mahlangu",
+    "email": "themba.mahlangu801@example.co.za",
+    "location": {
+      "city": "Bloemfontein",
+      "country": "South Africa"
+    },
+    "account_created": "15-11-2021-13-36",
+    "national_id": "03056413953767242388",
+    "internal_notes": "note_3"
+  }
+]
