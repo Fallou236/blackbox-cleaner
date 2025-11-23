@@ -43,6 +43,7 @@ blackbox_cleaner/
 │
 ├── blackbox_cleaner.py        # Script principal (nettoyage + fusion + anonymisation)
 ├── README.md                  # Documentation du projet
+├── output/                    ## Dossier de sortie du CSV nettoyé 
 └── Data/                      # Données users.json / transactions.json (optionnel)
 ```
 
