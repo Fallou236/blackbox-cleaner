@@ -70,7 +70,7 @@ from blackbox_cleaner import clean_data
 # chemins vers vos fichiers JSON
 users_file = "data/users.json"
 transactions_file = "data/transactions.json"
-output_file = "clean_output.csv"
+output_file = "output/clean_output.csv"
 
 # exécution du nettoyage
 cleaned_df = clean_data(users_file, transactions_file, output_file)
